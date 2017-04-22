@@ -7,7 +7,7 @@ Result:
 1 ... (truncated) ... 6
 
 Parameters passed are,
-order - any string to be truncated
+order - any string to be truncated,
 size - size of the truncated string
 
 Development Details
